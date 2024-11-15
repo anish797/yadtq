@@ -1,0 +1,17 @@
+add,5,3
+sub,10,4
+mul,6,7
+div,20,5
+add,8,2
+sub,15,8
+mul,3,9
+div,36,6
+add,10,20
+sub,50,30
+mul,11,6
+div,81,9
+add,7,13
+sub,14,9
+mul,4,8
+div,45,5
+EOF
