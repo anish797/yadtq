@@ -15,4 +15,5 @@
 4. worker status - watch -n 2 "redis-cli KEYS 'worker:\*:heartbeat' | xargs -n 1 -I{} sh -c 'echo {}; redis-cli TTL {}'"
 
 5. for input_5k run cat input_5k.csv | ./client.py topic1 10
+
 6. for failure input run cat input.csv | ./client.py topic2 3
