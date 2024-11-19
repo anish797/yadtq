@@ -14,4 +14,5 @@ add,7,13
 sub,14,9
 mul,4,8
 div,45,5
+div,5,0
 EOF
